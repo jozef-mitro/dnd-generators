@@ -47,3 +47,26 @@ var exoticLocations = [
 	"Sealed inside a magical dome of force",
 	"Inside a Mordenkainen's magnificent mansion"
 ];
+
+var dungeonCreators = [
+	"Beholder",
+	["Cult or religious group", 3],
+	["Dwarves", 4],
+	"Elves (including drow)",
+	"Giants",
+	["Humans", 4],
+	"Kuo-toa",
+	"Lich",
+	"Mind flayers",
+	"Yuan-ti",
+	"No creator (natural caverns)"
+]
+
+var cults = [
+	"Demon-worshiping cult",
+	"Devil-worshiping cult",
+	["Elemental Air cult", 2],
+	["Elemental Earth cult", 2],
+	["Elemental Fire cult", 2],
+	["Elemental Water cult", 2],
+]

@@ -20,11 +20,8 @@ function generateDungeonDetails() {
 	let output = document.getElementById("details-output");
 	output.textContent = "";
 	let list = document.createElement("ul");
-	let listItem = document.createElement("li");
-	// Location.
-	// Creator.
-	// Purpose.
-	// History.
+	let listItem = document.createElement("li")
+	// Location
 	let dungeonLocation = getRandomWeighed(dungeonLocations);
 	
 	if (location == "Roll on the Exotic Location table") {
@@ -33,5 +30,9 @@ function generateDungeonDetails() {
 	
 	listItem.textContent = "Location: " + dungeonLocation;
 	list.appendChild(listItem);
+	// Creator (cults and religious groups, npc alignment, npc class)
+	
+	// Purpose
+	// History
 	output.appendChild(list); 
 }
