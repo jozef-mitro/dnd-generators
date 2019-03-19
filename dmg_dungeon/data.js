@@ -388,83 +388,83 @@ var chamberPurposes = {
 	    ["Workshop for embalming the dead", 2]
 	],
 	treasureVault: [
-	    "Antechamber for visiting dignitaries"
-	    2 Armory containing mundane and magic gear used
-	    by the treasure vault's guards
-	    3-4 Barracks for guards
-	    5 Cistern providing fresh water
-	    6-9 Guardroom to defend against intruders
-	    10 Kennel for trained beasts used to guard the
-	    treasure vault
-	    11 Kitchen for feed ing guards
-	    12 Watch room that allows guards to observe those
-	    who approach the dungeon
-	    13 Prison for hold ing capturea intruders
-	    14-15 Strong room or vaul, for guarding the treasure
-	    hidden in the dungeon, accessible only by locked
-	    or secret door
-	    16 Torture chamber for ex racting information from
-	    captured intruders
-	    17-20 Trap or other rick designee ·o ill or capture
-	    creatures that en er e dungeor
+//	    "Antechamber for visiting dignitaries"
+//	    2 Armory containing mundane and magic gear used
+//	    by the treasure vault's guards
+//	    3-4 Barracks for guards
+//	    5 Cistern providing fresh water
+//	    6-9 Guardroom to defend against intruders
+//	    10 Kennel for trained beasts used to guard the
+//	    treasure vault
+//	    11 Kitchen for feed ing guards
+//	    12 Watch room that allows guards to observe those
+//	    who approach the dungeon
+//	    13 Prison for hold ing capturea intruders
+//	    14-15 Strong room or vaul, for guarding the treasure
+//	    hidden in the dungeon, accessible only by locked
+//	    or secret door
+//	    16 Torture chamber for ex racting information from
+//	    captured intruders
+//	    17-20 Trap or other rick designee ·o ill or capture
+//	    creatures that en er e dungeor
 	],
 	general: [
-	    Antechamber
-	    53-54 Laboratory
-	    02-03 Armory
-	    55-57 Library
-	    04 Audience
-	    58-59 Lounge
-	    60 Meditation chamber
-	    OS Aviary chamber
-	    06-07 Banquet room
-	    61 Observatory
-	    08-10 Barracks
-	    62 Office
-	    11 Bath or latrine
-	    63-64 Pantry
-	    12 Bedroom
-	    65-66 Pen or prison
-	    13 Bestiary
-	    67-68 Reception room
-	    14-16 Cell
-	    69-70 Refectory
-	    17 Chantry
-	    71 Robing room
-	    18 Chapel
-	    72 Salon
-	    19-20 Cistern
-	    73-74 Shrine
-	    21 Classroom
-	    75-76 Sitting room
-	    22 Closet
-	    77-78 Smithy
-	    23-24 Conjuring room
-	    79 Stable
-	    25 - 26 Court
-	    80- 81 Storage room
-	    27-29 Crypt
-	    82-83 Strong room
-	    30-31 Dining room or vault
-	    32-33 Divination room
-	    84-85 Study
-	    34 Dormitory
-	    86-88 Temple
-	    35 Dressing room
-	    89-90 Throne room
-	    36 Entry room or vestibule
-	    91 Torture chamber
-	    92-93 Training or
-	    37-38 Gallery exercise room
-	    39-40 Game room
-	    94-95 Trophy room or museum
-	    41-43 Guardroom
-	    44-45 Hall
-	    96 Waiting room
-	    46-47 Hall, great
-	    97 Nursery or schoolroom
-	    48-49 Hallway
-	    so Kennel 98 Wel l
-	    51-52 Kitchen 99-00 Workshop
+//	    Antechamber
+//	    53-54 Laboratory
+//	    02-03 Armory
+//	    55-57 Library
+//	    04 Audience
+//	    58-59 Lounge
+//	    60 Meditation chamber
+//	    OS Aviary chamber
+//	    06-07 Banquet room
+//	    61 Observatory
+//	    08-10 Barracks
+//	    62 Office
+//	    11 Bath or latrine
+//	    63-64 Pantry
+//	    12 Bedroom
+//	    65-66 Pen or prison
+//	    13 Bestiary
+//	    67-68 Reception room
+//	    14-16 Cell
+//	    69-70 Refectory
+//	    17 Chantry
+//	    71 Robing room
+//	    18 Chapel
+//	    72 Salon
+//	    19-20 Cistern
+//	    73-74 Shrine
+//	    21 Classroom
+//	    75-76 Sitting room
+//	    22 Closet
+//	    77-78 Smithy
+//	    23-24 Conjuring room
+//	    79 Stable
+//	    25 - 26 Court
+//	    80- 81 Storage room
+//	    27-29 Crypt
+//	    82-83 Strong room
+//	    30-31 Dining room or vault
+//	    32-33 Divination room
+//	    84-85 Study
+//	    34 Dormitory
+//	    86-88 Temple
+//	    35 Dressing room
+//	    89-90 Throne room
+//	    36 Entry room or vestibule
+//	    91 Torture chamber
+//	    92-93 Training or
+//	    37-38 Gallery exercise room
+//	    39-40 Game room
+//	    94-95 Trophy room or museum
+//	    41-43 Guardroom
+//	    44-45 Hall
+//	    96 Waiting room
+//	    46-47 Hall, great
+//	    97 Nursery or schoolroom
+//	    48-49 Hallway
+//	    so Kennel 98 Wel l
+//	    51-52 Kitchen 99-00 Workshop
 	]
 }
