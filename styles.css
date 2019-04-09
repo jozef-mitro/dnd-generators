@@ -17,3 +17,15 @@ h1 {
   border: 3px solid #FEDA6A;
   padding: 10px;
 }
+
+button {
+  background-color: #FEDA6A; /* Yellow */
+  border: none;
+  color: #393F4D;
+  padding: 8px 16px;
+  margin: 3px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
