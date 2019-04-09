@@ -48,3 +48,8 @@ function generateRoom() {
 	div.appendChild(list);
 	output.insertBefore(div, output.firstChild);
 }
+
+function clearOutput() {
+	let output = document.getElementById("room-output");
+	output.textContent = "";
+}

@@ -1,0 +1,19 @@
+body {
+	background-color: #393F4D;
+	font-family: "arial"
+}
+
+body, a {
+	color: #D4D4DC;
+}
+
+h1 {
+	color: #FEDA6A;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #FEDA6A;
+  padding: 10px;
+}
