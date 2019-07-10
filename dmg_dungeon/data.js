@@ -236,7 +236,7 @@ var chamberPurposes = {
 	["Vault for holding important treasures, accessible only by locked or secret door (75 percent chance of being trapped)", 3],
 	["Room containing a puzzle that must be solved to bypass a trap or monster", 3],
 	["Trap designed to kill or capture creatures", 5],
-	"Observation room, allowing guards or spectators to observe creatures moving through the dungeon
+	"Observation room, allowing guards or spectators to observe creatures moving through the dungeon"
 	],
 	lair: [
 	    "Armory stocked with weapons and armor",
@@ -270,10 +270,10 @@ var chamberPurposes = {
 	    "Workshop where doors, torch sconces, and other furnishings are repaired and maintained"
 	],
 	mine: [
-	    ["Barracks for miners", 2]
-	    "Bedroom for a supervisor or manager
-	    "Chapel dedicated to a patron deity of miners, earth, or protection"
-	    "Cistern providing drinking water for miners"
+	    ["Barracks for miners", 2],
+	    "Bedroom for a supervisor or manager",
+	    "Chapel dedicated to a patron deity of miners, earth, or protection",
+	    "Cistern providing drinking water for miners",
 	    ["Guardroom", 2],
 	    "Kitchen used to feed workers",
 	    "Laboratory used to conduct tests on strange minerals extracted from the mine",
@@ -284,7 +284,7 @@ var chamberPurposes = {
 	    "Strong room or vault used to store ore for transport to the surface"
 	],
 	planarGate: [
-	    ["Decorated foyer or antechamber, 3],
+	    ["Decorated foyer or antechamber", 3],
 	    ["Armory used by the portal's guardians", 4],
 	    ["Audience chamber for receiving visitors", 2],
 	    ["Barracks used by the portal's guards", 9],
@@ -298,7 +298,7 @@ var chamberPurposes = {
 	    ["Divination room used to investigate the portal and events tied to it", 3],
 	    ["Dormitory for visitors and guards", 5],
 	    ["Entry room or vestibule", 2],
-	    ["Gallery for displaying trophies and objects related to the portal and those that guard it" 2],
+	    ["Gallery for displaying trophies and objects related to the portal and those that guard it", 2],
 	    ["Guardroom to protect or watch over the portal", 8],
 	    ["Kitchen", 4],
 	    ["Laboratory for conducting experiments relating to the portal and creatures that emerge from it", 5],
@@ -348,7 +348,7 @@ var chamberPurposes = {
 	    ["Audience chamber where priests of the temple receive commoners and low-ranking visitors", 2],
 	    ["Banquet room used for celebrations and holy days", 2],
 	    ["Barracks for the temple's military arm or its hired guards", 3],
-	    ["Cells where the faithful can sit in quiet contemplation" 5],
+	    ["Cells where the faithful can sit in quiet contemplation", 5],
 	    ["Central temple built to accommodate rituals", 10],
 	    ["Chapel dedicated to a lesser deity associated with the temple's major deity", 4],
 	    ["Classroom used to train initiates and priests", 3],

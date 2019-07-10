@@ -2,28 +2,31 @@
 <html>
   <head>
     <title>Dungeon Master's Guide Dungeon</title>
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-  	<a href="index.html">Home</a>
-  	<h1>Dungeon Master's Guide Dungeon</h1>
-  	<button onclick="generateDungeonDetails()">Dungeon Details</button>
-  	<div id="details-output"></div>
-  	<button onclick="writeRandomWeighed(startingAreas, 'output');">Starting Area</button>
-  	<button onclick="generateStartingAreaPlus();">Starting Area+</button>
-    <button onclick="writeRandomWeighed(passages, 'output');">Passage</button>
-    <button onclick="generatePassagePlus();">Passage+</button>
-    <button onclick="writeRandomWeighed(passageWidthsD12, 'output');">Passage Width d12</button>
-    <button onclick="writeRandomWeighed(passageWidthsD20, 'output');">Passage Width d20</button>
-    <button onclick="writeRandomWeighed(doorTypes, 'output');">Door Type</button>
-    <button onclick="writeRandomWeighed(beyondDoor, 'output');">Beyond Door</button>
-    <button onclick="writeRandomWeighed(chambers, 'output');">Chamber</button>
-    <button onclick="generateChamberPlus();">Chamber+</button>
-    <button onclick="writeRandomWeighed(chamberExitsNormal, 'output');">Chamber Exits Normal</button>
-    <button onclick="writeRandomWeighed(chamberExitsLarge, 'output');">Chamber Exits Large</button>
-    <button onclick="writeRandomWeighed(exitLocation, 'output');">Exit Location</button>
-    <button onclick="writeRandomWeighed(exitTypes, 'output');">Exit Type</button>
-    <button onclick="writeRandomWeighed(stairs, 'output');">Stairs</button>
-    <div id="output"></div>
+  	<div class="center">
+	  	<a href="index.html">Home</a>
+	  	<h1>Dungeon Master's Guide Dungeon</h1>
+	  	<button onclick="generateDungeonDetails()">Dungeon Details</button>
+	  	<div id="details-output"></div>
+	  	<button onclick="writeRandomWeighed(startingAreas, 'output');">Starting Area</button>
+	  	<button onclick="generateStartingAreaPlus();">Starting Area+</button>
+	    <button onclick="writeRandomWeighed(passages, 'output');">Passage</button>
+	    <button onclick="generatePassagePlus();">Passage+</button>
+	    <button onclick="writeRandomWeighed(passageWidthsD12, 'output');">Passage Width d12</button>
+	    <button onclick="writeRandomWeighed(passageWidthsD20, 'output');">Passage Width d20</button>
+	    <button onclick="writeRandomWeighed(doorTypes, 'output');">Door Type</button>
+	    <button onclick="writeRandomWeighed(beyondDoor, 'output');">Beyond Door</button>
+	    <button onclick="writeRandomWeighed(chambers, 'output');">Chamber</button>
+	    <button onclick="generateChamberPlus();">Chamber+</button>
+	    <button onclick="writeRandomWeighed(chamberExitsNormal, 'output');">Chamber Exits Normal</button>
+	    <button onclick="writeRandomWeighed(chamberExitsLarge, 'output');">Chamber Exits Large</button>
+	    <button onclick="writeRandomWeighed(exitLocation, 'output');">Exit Location</button>
+	    <button onclick="writeRandomWeighed(exitTypes, 'output');">Exit Type</button>
+	    <button onclick="writeRandomWeighed(stairs, 'output');">Stairs</button>
+	    <div id="output"></div>
+    </div>
     <script src="dmg_dungeon/data.js"></script>
     <script src="dmg_dungeon/generator.js"></script>
   </body>

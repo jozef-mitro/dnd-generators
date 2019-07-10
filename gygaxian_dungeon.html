@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>1d6x3d20 Gygaxian Dungeon</title>
-  </head>
-  <body>
-  	<a href="index.html">Home</a>
-  	<h1>1d6x3d20 Gygaxian Dungeon</h1>
-  	<button onclick="generateDungeonDetails()">Dungeon Details</button>
-  	<div id="details-output"></div>
-    <button onclick="generateRoom()">Room</button>
-    <div id="room-output"></div>
-    <script src="gygaxian_dungeon/data.js"></script>
-    <script src="gygaxian_dungeon/generator.js"></script>
-  </body>
+	<head>
+		<title>1d6x3d20 Gygaxian Dungeon</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<div class="center">
+			<a href="index.html">Home</a>
+			<h1>1d6x3d20 Gygaxian Dungeon</h1>
+			<p>Based on <a href="https://meanderingbanter.blogspot.com/2018/12/1d6x3d20-crowdsourced-dungeon.html" target="_blank">this post</a> by Spwack.</p>
+			<button onclick="generateDungeonDetails()">Dungeon Details</button>
+			<div id="details-output"></div>
+			<button onclick="generateRoom()">Room</button>
+			<button onclick="clearOutput()">Clear</button>
+			<div id="room-output"></div>
+			<script src="gygaxian_dungeon/data.js"></script>
+			<script src="gygaxian_dungeon/generator.js"></script>
+		</div>
+	</body>
 </html>

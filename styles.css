@@ -1,0 +1,31 @@
+body {
+	background-color: #393F4D;
+	font-family: "arial"
+}
+
+body, a {
+	color: #D4D4DC;
+}
+
+h1 {
+	color: #FEDA6A;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #FEDA6A;
+  padding: 10px;
+}
+
+button {
+  background-color: #FEDA6A; /* Yellow */
+  border: none;
+  color: #393F4D;
+  padding: 8px 16px;
+  margin: 3px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
